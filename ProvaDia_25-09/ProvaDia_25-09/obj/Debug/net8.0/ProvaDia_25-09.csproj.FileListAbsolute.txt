@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gustavo\Documents\ProvaDia_25-09\ProvaDia_25-09\obj\Debug\net8.0\ProvaDia_25-09.MvcApplicationPartsAssemblyInfo.cache
